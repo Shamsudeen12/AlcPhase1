@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Alc 4 Phase 1</string>
+
+  <string name="button_a">About ALC</string>
+  <string name="button_b">My Profile</string>
+</resources>
